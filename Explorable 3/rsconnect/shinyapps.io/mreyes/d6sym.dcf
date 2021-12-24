@@ -1,0 +1,13 @@
+name: d6sym
+title: d6sym
+username:
+account: mreyes
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4391217
+bundleId: 4824655
+url: https://mreyes.shinyapps.io/d6sym/
+when: 1626405193.37689
+lastSyncTime: 1626405193.3769
+asMultiple: FALSE
+asStatic: FALSE

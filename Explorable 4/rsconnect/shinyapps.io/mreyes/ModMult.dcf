@@ -1,0 +1,13 @@
+name: ModMult
+title: ModMult
+username:
+account: mreyes
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4416689
+bundleId: 4850688
+url: https://mreyes.shinyapps.io/ModMult/
+when: 1627071524.58201
+lastSyncTime: 1627071524.58202
+asMultiple: FALSE
+asStatic: FALSE
